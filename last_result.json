@@ -1,0 +1,24 @@
+{
+  "query": "python defaultdict tutorial",
+  "query_norm": "python defaultdict tutorial",
+  "intent": "code",
+  "results": [
+    {
+      "title": "python-defaultdictofdefaultdict? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/5029934/defaultdict-of-defaultdict",
+      "snippet": "Is there a way to have adefaultdict(defaultdict(int)) in order to make the following code work? for x in stuff: d[x.a][x.b] += x.c_int d needs to be built ad-hoc, depending on x.a and x.b ele...",
+      "source": "stackoverflow"
+    },
+    {
+      "title": "Understanding the use ofdefaultdictinPython- Stack Overflow",
+      "url": "https://stackoverflow.com/questions/41455065/understanding-the-use-of-defaultdict-in-python",
+      "snippet": "I am starting to learnPythonand have run across a piece of code that I'm hoping one of you can help me understand. from collections importdefaultdictdd_dict =defaultdict(dict) dd_dict...",
+      "source": "stackoverflow"
+    }
+  ],
+  "total_raw": 5,
+  "total_deduped": 2,
+  "trusted_count": 2,
+  "search_ms": 12022.1,
+  "timestamp": "2026-04-13T21:57:57.380741"
+}
