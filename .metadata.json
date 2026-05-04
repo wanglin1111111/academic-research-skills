@@ -1,0 +1,8 @@
+{
+  "assetType": "skill",
+  "name": "quantitative-finance-analysis",
+  "displayName": "金融量化交易分析",
+  "semver": "1.0.0",
+  "description": "为金融产品（基金、股票、ETF等）的量化分析提供系统化框架，涵盖数据获取、指标计算、风险评估、对比分析等核心环节。",
+  "tags": ["金融", "量化", "基金", "股票", "ETF", "投资分析"]
+}
