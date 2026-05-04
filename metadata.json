@@ -1,0 +1,1138 @@
+{
+  "generated_at": "2026-05-04T09:49:15.963654",
+  "total_files": 89,
+  "files": [
+    {
+      "filename": "README.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-to-upload\\README.md",
+      "extension": ".md",
+      "size": 3226,
+      "modified": "2026-04-17T22:07:45.440911",
+      "title": "AtomCode Skills 技能集",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "UPLOAD_MANIFEST.txt",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-to-upload\\UPLOAD_MANIFEST.txt",
+      "extension": ".txt",
+      "size": 648,
+      "modified": "2026-04-18T21:44:48.410508",
+      "title": "UPLOAD_MANIFEST",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-to-upload\\adk-skill-building\\SKILL.md",
+      "extension": ".md",
+      "size": 3308,
+      "modified": "2026-04-17T22:04:02.667627",
+      "title": "adk-skill-building",
+      "tags": [
+        "ADK",
+        "AI Agent",
+        "Skill构建",
+        "架构设计",
+        "性能优化"
+      ],
+      "category": "general",
+      "version": "1.0.0",
+      "author": "AI Skill Extractor"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-to-upload\\ai-agent-era-software\\SKILL.md",
+      "extension": ".md",
+      "size": 4506,
+      "modified": "2026-04-17T22:04:38.863157",
+      "title": "ai-agent-era-software",
+      "tags": [
+        "AI Agent",
+        "软件架构",
+        "技术战略",
+        "组织变革",
+        "市场扩张"
+      ],
+      "category": "general",
+      "version": "1.0.0",
+      "author": "AI Skill Extractor"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-to-upload\\ai-knowledge-management\\SKILL.md",
+      "extension": ".md",
+      "size": 5024,
+      "modified": "2026-04-17T22:06:28.423435",
+      "title": "ai-knowledge-management",
+      "tags": [
+        "知识管理",
+        "AI工具",
+        "信息处理",
+        "学术研究",
+        "知识发现"
+      ],
+      "category": "general",
+      "version": "1.0.0",
+      "author": "AI Skill Extractor"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-to-upload\\aquatic-market-skill\\SKILL.md",
+      "extension": ".md",
+      "size": 3482,
+      "modified": "2026-04-17T22:07:01.069742",
+      "title": "aquatic-market-assistant",
+      "tags": [
+        "水产市场",
+        "智能助手",
+        "市场分析",
+        "库存管理",
+        "价格预测"
+      ],
+      "category": "general",
+      "version": "1.0.0"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-to-upload\\cognitive-memory-system\\SKILL.md",
+      "extension": ".md",
+      "size": 4124,
+      "modified": "2026-04-17T22:02:40.592344",
+      "title": "cognitive-memory-system",
+      "tags": [
+        "AI记忆",
+        "认知系统",
+        "知识管理",
+        "状态持久化",
+        "智能演进"
+      ],
+      "category": "general",
+      "version": "1.0.0",
+      "author": "AI Skill Extractor"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-to-upload\\enterprise-ai-transformation\\SKILL.md",
+      "extension": ".md",
+      "size": 3383,
+      "modified": "2026-04-17T22:03:09.691187",
+      "title": "enterprise-ai-transformation",
+      "tags": [
+        "企业转型",
+        "AI文化",
+        "组织变革",
+        "能力提升",
+        "规模化应用"
+      ],
+      "category": "general",
+      "version": "1.0.0",
+      "author": "AI Skill Extractor"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-to-upload\\openclawmp-login-skill\\SKILL.md",
+      "extension": ".md",
+      "size": 1591,
+      "modified": "2026-04-17T22:07:17.257367",
+      "title": "openclawmp-login",
+      "tags": [
+        "openclawmp",
+        "login",
+        "authentication",
+        "身份认证",
+        "访问控制"
+      ],
+      "category": "general",
+      "version": "1.0.0",
+      "author": "SkillCraft Team"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-to-upload\\vibe-coding-prompt-template\\SKILL.md",
+      "extension": ".md",
+      "size": 4310,
+      "modified": "2026-04-17T22:02:03.461204",
+      "title": "vibe-coding-prompt-template",
+      "tags": [
+        "AI编程",
+        "提示工程",
+        "工作流",
+        "文档模板",
+        "开发规范"
+      ],
+      "category": "general",
+      "version": "2.3.0",
+      "author": "AI Skill Extractor"
+    },
+    {
+      "filename": "README.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-extracted\\README.md",
+      "extension": ".md",
+      "size": 3226,
+      "modified": "2026-04-17T22:07:44",
+      "title": "AtomCode Skills 技能集",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-extracted\\adk-skill-building\\SKILL.md",
+      "extension": ".md",
+      "size": 3308,
+      "modified": "2026-04-17T22:04:02",
+      "title": "adk-skill-building",
+      "tags": [
+        "ADK",
+        "AI Agent",
+        "Skill构建",
+        "架构设计",
+        "性能优化"
+      ],
+      "category": "general",
+      "version": "1.0.0",
+      "author": "AI Skill Extractor"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-extracted\\ai-agent-era-software\\SKILL.md",
+      "extension": ".md",
+      "size": 4506,
+      "modified": "2026-04-17T22:04:38",
+      "title": "ai-agent-era-software",
+      "tags": [
+        "AI Agent",
+        "软件架构",
+        "技术战略",
+        "组织变革",
+        "市场扩张"
+      ],
+      "category": "general",
+      "version": "1.0.0",
+      "author": "AI Skill Extractor"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-extracted\\ai-knowledge-management\\SKILL.md",
+      "extension": ".md",
+      "size": 5024,
+      "modified": "2026-04-17T22:06:28",
+      "title": "ai-knowledge-management",
+      "tags": [
+        "知识管理",
+        "AI工具",
+        "信息处理",
+        "学术研究",
+        "知识发现"
+      ],
+      "category": "general",
+      "version": "1.0.0",
+      "author": "AI Skill Extractor"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-extracted\\aquatic-market-skill\\SKILL.md",
+      "extension": ".md",
+      "size": 3482,
+      "modified": "2026-04-17T22:07:00",
+      "title": "aquatic-market-assistant",
+      "tags": [
+        "水产市场",
+        "智能助手",
+        "市场分析",
+        "库存管理",
+        "价格预测"
+      ],
+      "category": "general",
+      "version": "1.0.0"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-extracted\\cognitive-memory-system\\SKILL.md",
+      "extension": ".md",
+      "size": 4124,
+      "modified": "2026-04-17T22:02:40",
+      "title": "cognitive-memory-system",
+      "tags": [
+        "AI记忆",
+        "认知系统",
+        "知识管理",
+        "状态持久化",
+        "智能演进"
+      ],
+      "category": "general",
+      "version": "1.0.0",
+      "author": "AI Skill Extractor"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-extracted\\enterprise-ai-transformation\\SKILL.md",
+      "extension": ".md",
+      "size": 3383,
+      "modified": "2026-04-17T22:03:08",
+      "title": "enterprise-ai-transformation",
+      "tags": [
+        "企业转型",
+        "AI文化",
+        "组织变革",
+        "能力提升",
+        "规模化应用"
+      ],
+      "category": "general",
+      "version": "1.0.0",
+      "author": "AI Skill Extractor"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-extracted\\openclawmp-login-skill\\SKILL.md",
+      "extension": ".md",
+      "size": 1591,
+      "modified": "2026-04-17T22:07:16",
+      "title": "openclawmp-login",
+      "tags": [
+        "openclawmp",
+        "login",
+        "authentication",
+        "身份认证",
+        "访问控制"
+      ],
+      "category": "general",
+      "version": "1.0.0",
+      "author": "SkillCraft Team"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Documents\\skills-extracted\\vibe-coding-prompt-template\\SKILL.md",
+      "extension": ".md",
+      "size": 4310,
+      "modified": "2026-04-17T22:02:02",
+      "title": "vibe-coding-prompt-template",
+      "tags": [
+        "AI编程",
+        "提示工程",
+        "工作流",
+        "文档模板",
+        "开发规范"
+      ],
+      "category": "general",
+      "version": "2.3.0",
+      "author": "AI Skill Extractor"
+    },
+    {
+      "filename": "01-AI知识管理技能包-完整版.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\01-AI知识管理技能包-完整版.md",
+      "extension": ".md",
+      "size": 746,
+      "modified": "2026-04-29T22:07:32.628121",
+      "title": "01 AI知识管理技能包（完整版）",
+      "tags": [
+        "skill",
+        "ai"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "01-AI知识管理技能包-完整版.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\01-AI知识管理技能包-完整版.zip",
+      "extension": ".zip",
+      "size": 3397,
+      "modified": "2026-04-29T22:13:33.066938",
+      "title": "01-AI知识管理技能包-完整版",
+      "tags": [
+        "skill",
+        "ai"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "02-企业AI转型技能包-完整版.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\02-企业AI转型技能包-完整版.md",
+      "extension": ".md",
+      "size": 1210,
+      "modified": "2026-04-29T22:07:32.628121",
+      "title": "02 企业AI转型技能包（完整版）",
+      "tags": [
+        "skill",
+        "ai"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "02-企业AI转型技能包-完整版.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\02-企业AI转型技能包-完整版.zip",
+      "extension": ".zip",
+      "size": 3061,
+      "modified": "2026-04-29T22:13:56.671178",
+      "title": "02-企业AI转型技能包-完整版",
+      "tags": [
+        "skill",
+        "ai"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "03-ADK智能体Skill构建技能包-完整版.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\03-ADK智能体Skill构建技能包-完整版.md",
+      "extension": ".md",
+      "size": 1013,
+      "modified": "2026-04-29T22:07:32.628121",
+      "title": "03 ADK智能体Skill构建技能包（完整版）",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "03-ADK智能体Skill构建技能包-完整版.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\03-ADK智能体Skill构建技能包-完整版.zip",
+      "extension": ".zip",
+      "size": 3210,
+      "modified": "2026-04-29T22:14:42.343496",
+      "title": "03-ADK智能体Skill构建技能包-完整版",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "04-AI Agent时代软件构建技能包-完整版.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\04-AI Agent时代软件构建技能包-完整版.md",
+      "extension": ".md",
+      "size": 1080,
+      "modified": "2026-04-29T22:07:32.637240",
+      "title": "04 AI Agent时代软件构建技能包（完整版）",
+      "tags": [
+        "skill",
+        "ai"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "04-AI Agent时代软件构建技能包-完整版.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\04-AI Agent时代软件构建技能包-完整版.zip",
+      "extension": ".zip",
+      "size": 3814,
+      "modified": "2026-04-29T22:15:03.006538",
+      "title": "04-AI Agent时代软件构建技能包-完整版",
+      "tags": [
+        "skill",
+        "ai"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "05-量化金融技能包-完整版.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\05-量化金融技能包-完整版.md",
+      "extension": ".md",
+      "size": 1203,
+      "modified": "2026-04-29T22:07:32.628121",
+      "title": "05 量化金融技能包（完整版）",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "05-量化金融技能包-完整版.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\05-量化金融技能包-完整版.zip",
+      "extension": ".zip",
+      "size": 3860,
+      "modified": "2026-04-29T22:15:18.427372",
+      "title": "05-量化金融技能包-完整版",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "06-投资失误知识库技能包-完整版.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\06-投资失误知识库技能包-完整版.md",
+      "extension": ".md",
+      "size": 1390,
+      "modified": "2026-04-29T22:07:32.639253",
+      "title": "06 投资失误知识库技能包（完整版）",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "06-投资失误知识库技能包-完整版.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\06-投资失误知识库技能包-完整版.zip",
+      "extension": ".zip",
+      "size": 12774,
+      "modified": "2026-04-29T22:16:08.263263",
+      "title": "06-投资失误知识库技能包-完整版",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "07-股票分析技能包-完整版.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\07-股票分析技能包-完整版.md",
+      "extension": ".md",
+      "size": 1478,
+      "modified": "2026-04-29T22:07:32.639253",
+      "title": "07 股票分析技能包（完整版）",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "07-股票分析技能包-完整版.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\07-股票分析技能包-完整版.zip",
+      "extension": ".zip",
+      "size": 11618,
+      "modified": "2026-04-29T22:16:40.477890",
+      "title": "07-股票分析技能包-完整版",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "08-low-cost-search技能包-完整版.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\08-low-cost-search技能包-完整版.md",
+      "extension": ".md",
+      "size": 1397,
+      "modified": "2026-04-29T22:07:32.639253",
+      "title": "08 low-cost-search技能包（完整版）",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "08-low-cost-search技能包-完整版.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\08-low-cost-search技能包-完整版.zip",
+      "extension": ".zip",
+      "size": 68375,
+      "modified": "2026-04-29T22:17:03.005215",
+      "title": "08-low-cost-search技能包-完整版",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "ADK智能体Skill构建技能包.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\ADK智能体Skill构建技能包.zip",
+      "extension": ".zip",
+      "size": 3210,
+      "modified": "2026-04-29T20:39:58.885780",
+      "title": "ADK智能体Skill构建技能包",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "AI Agent时代软件构建技能包.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\AI Agent时代软件构建技能包.zip",
+      "extension": ".zip",
+      "size": 3814,
+      "modified": "2026-04-29T20:40:58.004254",
+      "title": "AI Agent时代软件构建技能包",
+      "tags": [
+        "skill",
+        "ai"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "AI知识管理技能包.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\AI知识管理技能包.zip",
+      "extension": ".zip",
+      "size": 3397,
+      "modified": "2026-04-29T20:39:08.358047",
+      "title": "AI知识管理技能包",
+      "tags": [
+        "skill",
+        "ai"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "low-cost-search.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\low-cost-search.zip",
+      "extension": ".zip",
+      "size": 66072,
+      "modified": "2026-04-14T10:21:24.764824",
+      "title": "low-cost-search",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "marketing-copywriting-skill.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\marketing-copywriting-skill.md",
+      "extension": ".md",
+      "size": 2432,
+      "modified": "2026-05-03T19:02:08.193473",
+      "title": "营销文案创作技能指南",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "【完整版】AI技能系统总汇.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\【完整版】AI技能系统总汇.md",
+      "extension": ".md",
+      "size": 12516,
+      "modified": "2026-04-29T21:20:19.396736",
+      "title": "AI技能系统总汇（完整版）",
+      "tags": [
+        "skill",
+        "ai"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "个人发展职场教育_20260425.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\个人发展职场教育_20260425.zip",
+      "extension": ".zip",
+      "size": 33496,
+      "modified": "2026-04-25T17:58:38.561101",
+      "title": "个人发展职场教育_20260425",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "今日投资早报-2026-04-30-完整版.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\今日投资早报-2026-04-30-完整版.md",
+      "extension": ".md",
+      "size": 2964,
+      "modified": "2026-04-30T09:16:16.177950",
+      "title": "📰 今日投资早报（2026-04-30）",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "今日投资早报-2026-04-30.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\今日投资早报-2026-04-30.md",
+      "extension": ".md",
+      "size": 1809,
+      "modified": "2026-04-30T09:10:43.732290",
+      "title": "📰 今日投资早报（2026-04-30）",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "企业AI转型技能包.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\企业AI转型技能包.zip",
+      "extension": ".zip",
+      "size": 3061,
+      "modified": "2026-04-29T20:39:34.068640",
+      "title": "企业AI转型技能包",
+      "tags": [
+        "skill",
+        "ai"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "内容创作技能包-v1.0.0.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\内容创作技能包-v1.0.0.zip",
+      "extension": ".zip",
+      "size": 6705,
+      "modified": "2026-05-02T10:21:07.619025",
+      "title": "内容创作技能包-v1.0.0",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "内容创作技能包.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\内容创作技能包.zip",
+      "extension": ".zip",
+      "size": 915,
+      "modified": "2026-05-02T09:28:35.622159",
+      "title": "内容创作技能包",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "投资失误知识库技能包.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\投资失误知识库技能包.zip",
+      "extension": ".zip",
+      "size": 12774,
+      "modified": "2026-04-29T20:41:57.352952",
+      "title": "投资失误知识库技能包",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "股票分析技能包.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\股票分析技能包.zip",
+      "extension": ".zip",
+      "size": 11618,
+      "modified": "2026-04-29T20:42:33.986326",
+      "title": "股票分析技能包",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "量化金融技能包.zip",
+      "filepath": "C:\\Users\\22812\\Desktop\\量化金融技能包.zip",
+      "extension": ".zip",
+      "size": 3860,
+      "modified": "2026-04-29T20:41:32.978295",
+      "title": "量化金融技能包",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": ".metadata.json",
+      "filepath": "C:\\Users\\22812\\Desktop\\ADK智能体Skill构建技能包\\ADK智能体Skill构建技能包\\.metadata.json",
+      "extension": ".json",
+      "size": 630,
+      "modified": "2026-04-10T20:55:38",
+      "title": ".metadata",
+      "tags": [
+        "data"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\ADK智能体Skill构建技能包\\ADK智能体Skill构建技能包\\SKILL.md",
+      "extension": ".md",
+      "size": 4293,
+      "modified": "2026-04-10T20:42:32",
+      "title": "adk-skill-building",
+      "tags": [
+        "ADK",
+        "AI Agent",
+        "Skill构建",
+        "架构设计",
+        "性能优化"
+      ],
+      "category": "general",
+      "version": "1.0.0",
+      "author": "AI Skill Extractor"
+    },
+    {
+      "filename": ".metadata.json",
+      "filepath": "C:\\Users\\22812\\Desktop\\AI Agent时代软件构建技能包\\AI Agent时代软件构建技能包\\.metadata.json",
+      "extension": ".json",
+      "size": 665,
+      "modified": "2026-04-10T20:55:40",
+      "title": ".metadata",
+      "tags": [
+        "data"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\AI Agent时代软件构建技能包\\AI Agent时代软件构建技能包\\SKILL.md",
+      "extension": ".md",
+      "size": 5553,
+      "modified": "2026-04-10T20:42:44",
+      "title": "ai-agent-era-software",
+      "tags": [
+        "AI Agent",
+        "软件架构",
+        "技术战略",
+        "组织变革",
+        "市场扩张"
+      ],
+      "category": "general",
+      "version": "1.0.0",
+      "author": "AI Skill Extractor"
+    },
+    {
+      "filename": ".metadata.json",
+      "filepath": "C:\\Users\\22812\\Desktop\\AI知识管理技能包\\AI知识管理技能包\\.metadata.json",
+      "extension": ".json",
+      "size": 516,
+      "modified": "2026-04-10T22:37:52",
+      "title": ".metadata",
+      "tags": [
+        "data"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\AI知识管理技能包\\AI知识管理技能包\\SKILL.md",
+      "extension": ".md",
+      "size": 5120,
+      "modified": "2026-04-10T22:26:54",
+      "title": "ai-knowledge-management",
+      "tags": [
+        "知识管理",
+        "AI工具",
+        "信息处理",
+        "学术研究"
+      ],
+      "category": "general",
+      "version": "1.0.0",
+      "author": "AI Skill Extractor"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\low-cost-search\\SKILL.md",
+      "extension": ".md",
+      "size": 5135,
+      "modified": "2026-04-14T09:53:29.132489",
+      "title": "low-cost-search",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "engines.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\low-cost-search\\references\\engines.md",
+      "extension": ".md",
+      "size": 2323,
+      "modified": "2026-04-13T20:47:59.782976",
+      "title": "Search Engine Routing Reference",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "last_result.json",
+      "filepath": "C:\\Users\\22812\\Desktop\\low-cost-search\\references\\cache\\last_result.json",
+      "extension": ".json",
+      "size": 1137,
+      "modified": "2026-04-13T21:57:57.823835",
+      "title": "last_result",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "cache.py",
+      "filepath": "C:\\Users\\22812\\Desktop\\low-cost-search\\scripts\\cache.py",
+      "extension": ".py",
+      "size": 15267,
+      "modified": "2026-04-13T22:43:49.448859",
+      "title": "cache",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "classify.py",
+      "filepath": "C:\\Users\\22812\\Desktop\\low-cost-search\\scripts\\classify.py",
+      "extension": ".py",
+      "size": 6592,
+      "modified": "2026-04-13T21:28:49.719669",
+      "title": "classify",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "diag.py",
+      "filepath": "C:\\Users\\22812\\Desktop\\low-cost-search\\scripts\\diag.py",
+      "extension": ".py",
+      "size": 2014,
+      "modified": "2026-04-13T21:46:05.529066",
+      "title": "diag",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "embedding.py",
+      "filepath": "C:\\Users\\22812\\Desktop\\low-cost-search\\scripts\\embedding.py",
+      "extension": ".py",
+      "size": 2819,
+      "modified": "2026-04-13T21:27:20.364290",
+      "title": "embedding",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "install_hook.py",
+      "filepath": "C:\\Users\\22812\\Desktop\\low-cost-search\\scripts\\install_hook.py",
+      "extension": ".py",
+      "size": 2107,
+      "modified": "2026-04-14T09:53:15.546360",
+      "title": "install_hook",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "knowledge_base.py",
+      "filepath": "C:\\Users\\22812\\Desktop\\low-cost-search\\scripts\\knowledge_base.py",
+      "extension": ".py",
+      "size": 8033,
+      "modified": "2026-04-14T09:12:23.917264",
+      "title": "knowledge_base",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "rerank.py",
+      "filepath": "C:\\Users\\22812\\Desktop\\low-cost-search\\scripts\\rerank.py",
+      "extension": ".py",
+      "size": 2712,
+      "modified": "2026-04-13T21:16:28.968716",
+      "title": "rerank",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "search.py",
+      "filepath": "C:\\Users\\22812\\Desktop\\low-cost-search\\scripts\\search.py",
+      "extension": ".py",
+      "size": 9205,
+      "modified": "2026-04-14T08:21:05.840880",
+      "title": "search",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "search_client.py",
+      "filepath": "C:\\Users\\22812\\Desktop\\low-cost-search\\scripts\\search_client.py",
+      "extension": ".py",
+      "size": 5560,
+      "modified": "2026-04-14T09:52:58.262952",
+      "title": "search_client",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "search_server.py",
+      "filepath": "C:\\Users\\22812\\Desktop\\low-cost-search\\scripts\\search_server.py",
+      "extension": ".py",
+      "size": 12367,
+      "modified": "2026-04-14T09:12:35.951655",
+      "title": "search_server",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "verify.py",
+      "filepath": "C:\\Users\\22812\\Desktop\\low-cost-search\\scripts\\verify.py",
+      "extension": ".py",
+      "size": 4719,
+      "modified": "2026-04-13T20:47:38.884168",
+      "title": "verify",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "boundaries.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\ultron-1.0.0\\ultron-1.0.0\\boundaries.md",
+      "extension": ".md",
+      "size": 1408,
+      "modified": "2026-04-13T10:12:54",
+      "title": "Safety Boundaries",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "operations.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\ultron-1.0.0\\ultron-1.0.0\\operations.md",
+      "extension": ".md",
+      "size": 1769,
+      "modified": "2026-04-13T10:12:54",
+      "title": "Memory Operations",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "setup.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\ultron-1.0.0\\ultron-1.0.0\\setup.md",
+      "extension": ".md",
+      "size": 3808,
+      "modified": "2026-04-13T15:52:44",
+      "title": "Setup Guide",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\ultron-1.0.0\\ultron-1.0.0\\SKILL.md",
+      "extension": ".md",
+      "size": 4262,
+      "modified": "2026-04-13T15:52:44",
+      "title": "ultron",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "memory_sync.py",
+      "filepath": "C:\\Users\\22812\\Desktop\\ultron-1.0.0\\ultron-1.0.0\\scripts\\memory_sync.py",
+      "extension": ".py",
+      "size": 3866,
+      "modified": "2026-04-13T15:52:44",
+      "title": "memory_sync",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "ultron_client.py",
+      "filepath": "C:\\Users\\22812\\Desktop\\ultron-1.0.0\\ultron-1.0.0\\scripts\\ultron_client.py",
+      "extension": ".py",
+      "size": 7343,
+      "modified": "2026-04-26T15:10:42",
+      "title": "ultron_client",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": ".metadata.json",
+      "filepath": "C:\\Users\\22812\\Desktop\\企业AI转型技能包\\企业AI转型技能包\\.metadata.json",
+      "extension": ".json",
+      "size": 655,
+      "modified": "2026-04-10T20:55:36",
+      "title": ".metadata",
+      "tags": [
+        "data"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\企业AI转型技能包\\企业AI转型技能包\\SKILL.md",
+      "extension": ".md",
+      "size": 3846,
+      "modified": "2026-04-10T20:42:22",
+      "title": "enterprise-ai-transformation",
+      "tags": [
+        "企业转型",
+        "AI文化",
+        "组织变革",
+        "能力提升"
+      ],
+      "category": "general",
+      "version": "1.0.0",
+      "author": "AI Skill Extractor"
+    },
+    {
+      "filename": ".metadata.json",
+      "filepath": "C:\\Users\\22812\\Desktop\\投资失误知识库技能包\\investment-mistake-knowledge-base\\.metadata.json",
+      "extension": ".json",
+      "size": 537,
+      "modified": "2026-04-07T12:06:20",
+      "title": ".metadata",
+      "tags": [
+        "data"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\投资失误知识库技能包\\investment-mistake-knowledge-base\\SKILL.md",
+      "extension": ".md",
+      "size": 7905,
+      "modified": "2026-04-03T17:53:14",
+      "title": "investment-mistake-knowledge-base",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "analysis-frameworks.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\投资失误知识库技能包\\investment-mistake-knowledge-base\\references\\analysis-frameworks.md",
+      "extension": ".md",
+      "size": 6566,
+      "modified": "2026-04-03T17:54:02",
+      "title": "投资分析框架详解",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "case-studies.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\投资失误知识库技能包\\investment-mistake-knowledge-base\\references\\case-studies.md",
+      "extension": ".md",
+      "size": 5284,
+      "modified": "2026-04-03T17:53:36",
+      "title": "5大投资失败案例详细复盘",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "checklist-templates.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\投资失误知识库技能包\\investment-mistake-knowledge-base\\references\\checklist-templates.md",
+      "extension": ".md",
+      "size": 8295,
+      "modified": "2026-04-03T17:54:38",
+      "title": "投资决策检查清单模板",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "GUIDE.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\股票分析技能包\\stock-analysis-skill\\GUIDE.md",
+      "extension": ".md",
+      "size": 5558,
+      "modified": "2026-04-10T17:53:56",
+      "title": "技能应用指南 (Skill Application Guide)",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "README.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\股票分析技能包\\stock-analysis-skill\\README.md",
+      "extension": ".md",
+      "size": 1262,
+      "modified": "2026-04-10T17:54:02",
+      "title": "股票深度分析技能",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\股票分析技能包\\stock-analysis-skill\\SKILL.md",
+      "extension": ".md",
+      "size": 9459,
+      "modified": "2026-04-10T17:52:46",
+      "title": "股票深度分析技能 (Stock Deep Analysis Skill)",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "example-000938-紫光股份.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\股票分析技能包\\stock-analysis-skill\\examples\\example-000938-紫光股份.md",
+      "extension": ".md",
+      "size": 6720,
+      "modified": "2026-04-10T17:53:26",
+      "title": "应用示例：紫光股份（000938.SZ）深度分析",
+      "tags": [],
+      "category": "general"
+    },
+    {
+      "filename": ".metadata.json",
+      "filepath": "C:\\Users\\22812\\Desktop\\量化金融技能包\\quantitative_finance_skill\\.metadata.json",
+      "extension": ".json",
+      "size": 397,
+      "modified": "2026-04-07T12:01:34",
+      "title": ".metadata",
+      "tags": [
+        "data"
+      ],
+      "category": "general"
+    },
+    {
+      "filename": "SKILL.md",
+      "filepath": "C:\\Users\\22812\\Desktop\\量化金融技能包\\quantitative_finance_skill\\SKILL.md",
+      "extension": ".md",
+      "size": 6181,
+      "modified": "2026-03-16T15:05:10",
+      "title": "金融量化交易分析技能 (Quantitative Finance Analysis Skill)",
+      "tags": [
+        "skill"
+      ],
+      "category": "general"
+    }
+  ]
+}
