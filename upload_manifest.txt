@@ -1,0 +1,22 @@
+AtomCode Skills 上传清单
+==================================================
+
+仓库: https://gitcode.com/gcw_r6OMdBYH/1
+分支: master
+
+文件列表:
+1. README.md
+2. adk-skill-building/SKILL.md
+3. ai-agent-era-software/SKILL.md
+4. ai-knowledge-management/SKILL.md
+5. aquatic-market-skill/SKILL.md
+6. cognitive-memory-system/SKILL.md
+7. enterprise-ai-transformation/SKILL.md
+8. openclawmp-login-skill/SKILL.md
+9. vibe-coding-prompt-template/SKILL.md
+
+上传步骤:
+1. 访问 https://gitcode.com/{REPO_OWNER}/{REPO_NAME}
+2. 登录你的 GitCode 账号
+3. 点击 '上传文件' 或 '添加文件'
+4. 逐个上传以上文件
