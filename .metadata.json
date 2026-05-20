@@ -1,0 +1,132 @@
+﻿{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-19T21:30:00+08:00",
+  "repo_name": "ai-skills-hub",
+  "repo_description": "通用AI+金融技能集合，涵盖知识管理、企业转型、Agent构建、量化分析等领域",
+  "skills": [
+    {
+      "name": "ai-knowledge-management",
+      "display_name": "AI知识管理",
+      "version": "1.0.0",
+      "description": "多源文档整合、可溯源检索、跨文档关联分析和多模态内容生成",
+      "tags": ["AI", "知识管理", "信息处理", "学术研究"],
+      "category": "productivity",
+      "path": "skills/ai-knowledge-management/SKILL.md"
+    },
+    {
+      "name": "enterprise-ai-transformation",
+      "display_name": "企业AI转型",
+      "version": "1.0.0",
+      "description": "基于Ramp实践的企业AI转型系统化方法论",
+      "tags": ["AI转型", "企业管理", "Ramp", "组织变革"],
+      "category": "management",
+      "path": "skills/enterprise-ai-transformation/SKILL.md"
+    },
+    {
+      "name": "adk-skill-building",
+      "display_name": "ADK智能体Skill构建",
+      "version": "1.0.0",
+      "description": "渐进式披露架构设计、Skill构建方法论和Agent评估体系",
+      "tags": ["ADK", "AI Agent", "Skill构建", "架构设计"],
+      "category": "development",
+      "path": "skills/adk-skill-building/SKILL.md"
+    },
+    {
+      "name": "ai-agent-era-software",
+      "display_name": "AI Agent时代软件构建",
+      "version": "1.0.0",
+      "description": "Agent优先架构、技术本质回归、市场扩张思维",
+      "tags": ["AI Agent", "软件架构", "技术战略", "组织变革"],
+      "category": "architecture",
+      "path": "skills/ai-agent-era-software/SKILL.md"
+    },
+    {
+      "name": "quantitative-finance",
+      "display_name": "量化金融分析",
+      "version": "1.0.0",
+      "description": "基金/股票/ETF量化分析框架，涵盖数据获取、指标计算、风险评估、对比分析",
+      "tags": ["金融", "量化", "基金", "股票", "ETF", "投资分析"],
+      "category": "finance",
+      "path": "skills/quantitative-finance/SKILL.md"
+    },
+    {
+      "name": "investment-mistakes-kb",
+      "display_name": "投资失误知识库",
+      "version": "1.0.0",
+      "description": "基于真实失败案例，帮助用户识别投资陷阱、避免常见失误",
+      "tags": ["投资", "风险管理", "失败案例", "知识库"],
+      "category": "finance",
+      "path": "skills/investment-mistakes-kb/SKILL.md"
+    },
+    {
+      "name": "stock-analysis",
+      "display_name": "股票分析",
+      "version": "1.0.0",
+      "description": "个股深度分析框架，涵盖基本面、技术面、资金面、行业对比",
+      "tags": ["股票", "基本面分析", "技术面分析", "投资"],
+      "category": "finance",
+      "path": "skills/stock-analysis/SKILL.md"
+    },
+    {
+      "name": "low-cost-search",
+      "display_name": "低成本高精度搜索",
+      "version": "1.0.0",
+      "description": "通过语义缓存、意图分类、结果重排序、验证确认四层优化，实现低成本高精度搜索",
+      "tags": ["搜索", "语义缓存", "意图分类", "结果重排序"],
+      "category": "utility",
+      "path": "skills/low-cost-search/SKILL.md"
+    }
+  ],
+  "scripts": [
+    {
+      "name": "cache.py",
+      "description": "三层语义缓存（精确/语义/关键词）",
+      "path": "skills/low-cost-search/scripts/cache.py"
+    },
+    {
+      "name": "classify.py",
+      "description": "意图分类+成本感知路由",
+      "path": "skills/low-cost-search/scripts/classify.py"
+    },
+    {
+      "name": "embedding.py",
+      "description": "查询语义嵌入",
+      "path": "skills/low-cost-search/scripts/embedding.py"
+    },
+    {
+      "name": "rerank.py",
+      "description": "结果重排序（cross-encoder）",
+      "path": "skills/low-cost-search/scripts/rerank.py"
+    },
+    {
+      "name": "search.py",
+      "description": "统一搜索入口（DuckDuckGo）",
+      "path": "skills/low-cost-search/scripts/search.py"
+    },
+    {
+      "name": "search_client.py",
+      "description": "HTTP客户端（带fallback）",
+      "path": "skills/low-cost-search/scripts/search_client.py"
+    },
+    {
+      "name": "search_server.py",
+      "description": "常驻HTTP服务器（模型只加载一次）",
+      "path": "skills/low-cost-search/scripts/search_server.py"
+    },
+    {
+      "name": "verify.py",
+      "description": "结果验证（置信度标注）",
+      "path": "skills/low-cost-search/scripts/verify.py"
+    },
+    {
+      "name": "knowledge_base.py",
+      "description": "预置知识库+本地向量检索",
+      "path": "skills/low-cost-search/scripts/knowledge_base.py"
+    },
+    {
+      "name": "diag.py",
+      "description": "诊断脚本（测试import和缓存功能）",
+      "path": "skills/low-cost-search/scripts/diag.py"
+    }
+  ]
+}
