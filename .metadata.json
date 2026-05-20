@@ -1,8 +1,11 @@
-﻿{
+{
   "schema_version": "1.0",
-  "generated_at": "2026-05-19T21:30:00+08:00",
+  "generated_at": "2026-05-20T14:45:00+08:00",
   "repo_name": "ai-skills-hub",
-  "repo_description": "通用AI+金融技能集合，涵盖知识管理、企业转型、Agent构建、量化分析等领域",
+  "repo_description": "AI+金融技能集合，涵盖知识管理、企业转型、Agent构建、量化分析",
+  "license": "MIT",
+  "author": "wanglin1111111",
+  "homepage": "https://github.com/wanglin1111111/academic-research-skills",
   "skills": [
     {
       "name": "ai-knowledge-management",
@@ -90,7 +93,7 @@
     },
     {
       "name": "embedding.py",
-      "description": "查询语义嵌入",
+      "description": "查询语义嵌入（sentence-transformers）",
       "path": "skills/low-cost-search/scripts/embedding.py"
     },
     {
@@ -115,7 +118,7 @@
     },
     {
       "name": "verify.py",
-      "description": "结果验证（置信度标注）",
+      "description": "结果验证（置信度标注+来源可信度）",
       "path": "skills/low-cost-search/scripts/verify.py"
     },
     {
@@ -128,5 +131,17 @@
       "description": "诊断脚本（测试import和缓存功能）",
       "path": "skills/low-cost-search/scripts/diag.py"
     }
-  ]
+  ],
+  "dependencies": {
+    "python": ">=3.8",
+    "packages": [
+      "sentence-transformers",
+      "duckduckgo-search",
+      "scikit-learn",
+      "numpy"
+    ]
+  },
+  "total_files": 21,
+  "total_skills": 8,
+  "total_scripts": 10
 }
